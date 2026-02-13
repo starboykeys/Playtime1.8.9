@@ -23,4 +23,4 @@ plugins {
 }
 
 
-rootProject.name = "examplemod"
+rootProject.name = "Playtime1.8.9"
